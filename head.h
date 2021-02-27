@@ -7,4 +7,4 @@ typedef struct SListNode
 {
     SDataType data;
     struct SListNode* PNext;
-}Node,*PNode; //封装链表节点和 next 
+}Node,*PNode; //封装链表节点和 next 节点
